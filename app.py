@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 from openai import OpenAI
+from gemini import Gemini
 
 # Streamlit App UI
 st.title("📝 Streamlit Prompting App")
